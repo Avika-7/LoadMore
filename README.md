@@ -2,6 +2,10 @@
 
 A simple and responsive React project that demonstrates how to fetch products from an API and progressively load more products using a **Load More** button.
 
+
+https://github.com/user-attachments/assets/0d321ed0-bcdb-4737-a6f2-d2a68ec7312f
+
+
 The project uses the [DummyJSON API](https://dummyjson.com/) to fetch product data.
 
 ## Features
